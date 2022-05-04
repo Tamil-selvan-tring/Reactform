@@ -1,0 +1,13 @@
+#form
+{
+  border-style:solid;
+  border-color: rgb(235, 212, 212);
+  padding: 5px;
+  width: 50%;
+}
+.Form-elements
+{
+  margin-top: 15px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
